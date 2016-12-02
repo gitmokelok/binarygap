@@ -17,7 +17,7 @@ namespace binarygap.Tests
 
             Solution solution = new Solution();
             
-            solution.solution()
+            //solution.solution()
 
             
         }
